@@ -115,13 +115,18 @@ button a:hover{
 }
 
 .Contact{
-  
+  background-color: white;
   width: fit-content;
   margin: auto;
   text-align: center;
   margin-top: 25px;
   padding: 20px;
-  border-radius: 10px;
+  border-radius: 20px;
+}
+
+.All{
+  background-color: rgb(219, 214, 214);
+  padding-top: 1px;
 }
 
 .Mass-button{
