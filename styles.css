@@ -1,0 +1,60 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+
+@media (max-width: 575.98px) { 
+  .img img{
+    width: 300px;
+  }
+  .Front{
+    display: flex;
+    flex-direction: column;  
+     
+  }
+
+}
+
+h1{
+ 
+}
+
+.Front{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  
+}
+
+.front-text{
+  margin: 10px 60px;
+  
+}
+
+.pattaya-regular {
+  color: rgba(96, 95, 95, 0.865);
+  font-family: "Pattaya", sans-serif;
+  font-weight: 0px;
+  font-style: normal;
+}
+
+
+.img img{
+  margin: 10px;
+  border: solid rgba(93, 92, 92, 0.516) 2px;
+  border-radius: 5%;
+  box-shadow: 8px 8px 10px #31792eda;
+}
+
+.img img:hover{
+  transform: rotate(5deg);
+}
+
+a{
+  text-decoration: none;
+}
+
+a:hover{
+  color: #31792eda;
+}
