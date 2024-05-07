@@ -69,3 +69,26 @@ a{
 a:hover{
   color: #31792eda;
 }
+
+.navbar-nav {
+margin: 0 auto ;
+padding-left: 800px;
+}
+
+.button{
+  color: #ffffff;
+  font-weight:500;
+  background-color:#31792eda ;
+}
+
+button a{
+  color: #ffffff;
+}
+button a:hover{
+  color: black;
+}
+
+
+.button:hover{
+  background-color: grey;
+}
